@@ -15,6 +15,7 @@ console.log(humanage);
 2. //Tip Calculator
 
 function calculateTip(total, percentage) {
+    let tip = total 
   
 }
 3. //Even or Odd
